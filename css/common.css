@@ -7,18 +7,13 @@
 }
 
 /* 左浮动 */
-.f1 {
+.fl {
     float: left;
 }
 
 /* 右浮动 */
 .fr {
     float:  right;
-	margin-top: -40px;
-}
-.fr2 {
-    float:  right;
-	/* margin-top: -30px; */
 }
 
 
@@ -26,7 +21,4 @@
 .container {
     width: 1200px;
 	margin: 0 auto;
-}
-span{
-	color: #FFFFFF;
 }
